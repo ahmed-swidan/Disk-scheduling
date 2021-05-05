@@ -1,6 +1,6 @@
 # Disk-scheduling
 Disk scheduling is done by operating systems to schedule I/O requests arriving for the disk. Disk scheduling is also known as I/O scheduling. This program works as a simulation to a disk using some scheduling algorithms and compares the number of disk head movments between them.
-# Rroblem statement:
+# Problem statement:
 It is required to simulate some of disk scheduling algorithms. The required
 algorithms to be implemented are as follows:
 - First In First Out (FIFO)
